@@ -9,3 +9,5 @@
 3. Baseline прогноз улучшен с помощью GridSearch, а также Feature Engineering
 
 Результат автоматической оценки на Kaggle - `RMSE = 0.13786`, топ-35% от всех участников. 
+
+[Ссылка](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) на соревнование на Kaggle
